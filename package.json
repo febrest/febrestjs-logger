@@ -1,0 +1,14 @@
+{
+    "name":"febrestjs-logger",
+    "version": "1.0.0",
+    "author": {
+        "name": "Spencer Ye",
+        "email": "pallyoung@163.com"
+    },
+    "peerDependencies": {
+        "febrestjs":"@latest"
+    },
+    "devDependencies": {
+        "glup": "*"
+    }
+}
